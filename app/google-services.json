@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432813550236",
+    "project_id": "thread-8810b",
+    "storage_bucket": "thread-8810b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432813550236:android:9feea624332b619a571b59",
+        "android_client_info": {
+          "package_name": "com.example.threadyoutube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5E4KneHZ1vDyC6IlAZrl6toJfKEDTgb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
